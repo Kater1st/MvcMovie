@@ -707,3 +707,4 @@ K:\BYU assignments\CSE325\New folder\MvcMovie\obj\Debug\net10.0\refint\MvcMovie.
 K:\BYU assignments\CSE325\New folder\MvcMovie\obj\Debug\net10.0\MvcMovie.pdb
 K:\BYU assignments\CSE325\New folder\MvcMovie\obj\Debug\net10.0\MvcMovie.genruntimeconfig.cache
 K:\BYU assignments\CSE325\New folder\MvcMovie\obj\Debug\net10.0\ref\MvcMovie.dll
+K:\BYU assignments\CSE325\New folder\MvcMovie\obj\Debug\net10.0\MvcMovie.sourcelink.json
